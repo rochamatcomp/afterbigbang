@@ -1,4 +1,4 @@
-Select Language: [Portuguese](afterbigbang/README.md), English
+Select Language: [Português](README.md), English
 
 # After Big Bang
 ## Why programming
