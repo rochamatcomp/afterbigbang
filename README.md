@@ -1,4 +1,4 @@
-Selecione o Idioma: Português, [English] not available yet<!--(README-en.md)-->, [Français] pas encore disponibles<!--(README-fr.md)-->
+Selecione o Idioma: Português, [English] not available yet, [Français] pas encore disponibles
 
 
 # Depois do Big Bang
