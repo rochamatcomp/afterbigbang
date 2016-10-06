@@ -11,10 +11,12 @@ O nome "Depois do Big Bang" é uma brincadeira sobre as questões óbvias, por i
 A astronomia fica para algum estudo aplicado.
 
 ### Não sabe nada de programação? **É aqui mesmo!**
+#### Veja as respostas longas, marcadas com a imagem abaixo.
 ![Long Answer](/images/long_answer.png)
 Adaptação da imagem criada por Carin Marzaro (the Noun Project).
 
 ### Já sabe programação?
+#### Veja as respostas curtas, marcadas com a imagem abaixo.
 ![Short Answer](/images/short_answer.png)
 Adaptação da imagem criada por Gan Khoon Lay (the Noun Project).
 
