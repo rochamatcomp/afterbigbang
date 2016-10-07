@@ -4,7 +4,7 @@ Selecione o Idioma: Português, [English] not available yet, [Français] pas enc
 # Depois do Big Bang
 ## Aconteceu o Bing Bang e agora?
 
-13,8 bilhões (13,8 * 10^9) anos depois do Big Bang. A Computação já foi criada, muita coisa aconteceu e **finalmente você já pode aprender a programar!**
+13,8 bilhões (![13,8*10^9](https://chart.googleapis.com/chart?cht=tx&chl=13,8*10^9)) anos depois do Big Bang. A Computação já foi criada, muita coisa aconteceu e **finalmente você já pode aprender a programar!**
 
 O nome "Depois do Big Bang" é uma brincadeira sobre as questões óbvias, por isso não ditas, quando se está aprendendo algo novo. **O óbvio só não existe**, só depois que já se sabe e com muita experiência é que as questões ficam mais trivais.
 
